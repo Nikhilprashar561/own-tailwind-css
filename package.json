@@ -1,0 +1,17 @@
+{
+  "name": "chai-tailwind-css",
+  "version": "1.0.0",
+  "description": "This my own tailwind css built with JavaScript.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "own",
+    "tailwind",
+    "css"
+  ],
+  "author": "Nikhilprashar561",
+  "license": "ISC"
+}
