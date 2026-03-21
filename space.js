@@ -1,4 +1,5 @@
-export const spacing = { // This is a number accoring to number we are set pixels.
+export const spacing = {
+  // This is a number accoring to number we are set pixels.
   0: "0px",
   0.5: "2px",
   1: "4px",
@@ -32,11 +33,10 @@ export const spacing = { // This is a number accoring to number we are set pixel
   64: "256px",
   72: "288px",
   80: "320px",
-  96: "384px"
+  96: "384px",
 };
 
 export const utilities = {
-
   w: "width",
   h: "height",
 
@@ -58,59 +58,24 @@ export const utilities = {
   right: "right",
 
   gap: "gap",
-  
+
   border: "border-width",
-
 };
 
-export const utils = {
-
-  "block": "display: block;",
-  "flex": "display: flex;",
-  "grid": "display: grid;",
-  "hidden": "display: none;",
-
-  "flex-row": "flex-direction: row;",
-  "flex-col": "flex-direction: column;",
-  "justify-center": "justify-content: center;",
-  "justify-between": "justify-content: space-between;",
-  "items-center": "align-items: center;",
-
-  "font-bold": "font-weight: 700;",
-  "text-center": "text-align: center;",
-
-  "bg-red": "background-color: red;",
-  "bg-blue": "background-color: blue;",
-  "bg-green": "background-color: green;",
-  
-  "border": "border: 1px solid #000;",
-  "rounded-xs": "border-radius: 2px;",
-  "rounded-sm": "border-radius: 4px;",
-  "rounded-md": "border-radius: 6px;",
-  "rounded-lg": "border-radius: 8px;",
-  "rounded-xl": "border-radius: 12px;",
-  "rounded-2xl": "border-radius: 16px;",
-  "rounded-3xl": "border-radius: 24px;",
-  "rounded-4xl": "border-radius: 32px;",
-
-  "cursor-pointer": "cursor: pointer;",
-
-  "relative": "position: relative;",
-  "absolute": "position: absolute;"
-};
 
 export const textSpcing = {
-    "xs": "12px",
-    "sm": "14ps",
-    "base": '16px',
-    "lg": "18px",
-    "xl": "20px",
-    "2xl": "24px",
-    "3xl": "30px",
-    "4xl": "36px",
-    "5xl": "48px",
-    "6xl": "60px",
-    "7xl": "72px",
-    "8xl": "96px",
-    "9xl": "128px",
-}
+  // Done
+  xs: "12px",
+  sm: "14px",
+  base: "16px",
+  lg: "18px",
+  xl: "20px",
+  "2xl": "24px",
+  "3xl": "30px",
+  "4xl": "36px",
+  "5xl": "48px",
+  "6xl": "60px",
+  "7xl": "72px",
+  "8xl": "96px",
+  "9xl": "128px",
+};
