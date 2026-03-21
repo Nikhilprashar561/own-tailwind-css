@@ -40,6 +40,15 @@ allElement.forEach((e) => {
       if (elem.startsWith(`chai-hidden`)) {
         e.style.display = "none";
       }
+      if (elem.startsWith(`chai-justify-around`)) {
+        e.style.justifyContent = "space-around";
+      }
+      if (elem.startsWith(`chai-justify-self`)) {
+        e.style.justifySelf = "center";
+      }
+      if (elem.startsWith(`chai-decoration-none`)) {
+        e.style.textDecoration = "none";
+      }
       if (elem.startsWith(`chai-justify-between`)) {
         e.style.justifyContent = "space-between";
       }

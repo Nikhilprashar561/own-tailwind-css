@@ -2,7 +2,7 @@
 
 Chai CSS is a lightweight, custom utility-first CSS framework inspired by Tailwind CSS. It provides easy-to-use classes to style elements dynamically, including colors, spacing, typography, layout, and positioning. 
 
-So there is project link, i built using with this my own tailwind css :- 
+So there is project link, i built using with this my own tailwind css :- [Chai-tailwind-css](https://tailwindchai.netlify.app/)
 
 A video link check how i built this :-
 
@@ -42,6 +42,7 @@ Below is the complete list of available classes:
 | **chai-right**          | Sets right position. | `right: 0;` |
 | **chai-left**           | Sets left position. | `left: 0;` |
 | **chai-gap-2**          | Adds gap of 2px between flex/grid items. | `gap: 2px;` |
+| **chai-justify-around** | Adds justify conten around | `justify-content: justify-around;` |
 
 > **Tip:** Combine classes to quickly build layouts without writing custom CSS. For example:  
 > ```html

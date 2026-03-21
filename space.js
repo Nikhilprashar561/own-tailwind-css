@@ -34,6 +34,9 @@ export const spacing = {
   72: "288px",
   80: "320px",
   96: "384px",
+  110: "450px",
+  125: "550px",
+  140: "650px",
 };
 
 export const utilities = {
