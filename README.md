@@ -4,7 +4,11 @@ Chai CSS is a lightweight, custom utility-first CSS framework inspired by Tailwi
 
 So there is project link, i built using with this my own tailwind css :- [Chai-tailwind-css](https://tailwindchai.netlify.app/)
 
-A video link check how i built this :-
+A video link check how i built this :- [Chai-tailwind-css-youtube-link](https://www.youtube.com/watch?v=JrVIuU8M9YQ)
+
+A Twitter ( x ) post video link check how i built this :- [Chai-tailwind-css-twitter-link](x.com/NikhilPrashar_/status/2035650133715832903)
+
+A Linkdin post video link check how i built this :- [Chai-tailwind-css-linkdin-link](https://www.linkedin.com/feed/update/urn:li:share:7441418020129841152/)
 
 Below is the complete list of available classes:
 
